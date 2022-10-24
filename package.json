@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emekalites/react-native-alarm-notification.git",
-    "baseUrl": "https://github.com/emekalites/react-native-alarm-notification"
+    "url": "git+https://github.com/Jad-Jbara/react-native-alarm-notification.git",
+    "baseUrl": "https://github.com/Jad-Jbara/react-native-alarm-notification"
   },
   "keywords": [
     "react-native",
